@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+catboost_info/
+
+# Kaggle competition data and cached features: download it yourself (see data/README.md)
+data/*
+!data/README.md
